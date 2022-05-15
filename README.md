@@ -1,4 +1,4 @@
-# RoboCup-SMA
+# RoboCup SMA
 ## A Multi-Agent System to simulate the RoboCup Soccer competition using JADE framework
 
 
